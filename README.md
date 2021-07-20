@@ -1,4 +1,7 @@
-# woo
+# Woocommerce 3.3 to 5.5 - Unauthenticated SQL Injection
+
+https://wpscan.com/vulnerability/1212fec8-1fde-41e5-af70-abdd7ffe5379
+
 Exploit woocommerce SQLI and grab user and password hash
 
 Commands
